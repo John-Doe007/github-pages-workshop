@@ -7,16 +7,17 @@ body {
   height: auto;
 }
 .container{
-  background: #575757;
+  background: #000;
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: auto;
+  height: auto;
   margin: 20px auto 20px auto;
-  padding:200px;
+  padding:100px;
 }
-h1 {
+h1, p{
   color: #fff;
 }
+
 .gallery{
   width: auto;
   display: flex;
